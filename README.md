@@ -19,7 +19,7 @@ The system manages donors, consent, collection events, biospecimens, storage loc
 
 ### 📄 Final Report
 
-[View Final Report](./CBIO204_Biobank_Report.docx)
+[📄 View Final Report](./CBIO204_Biobank_Final_Report.pdf)
 
 ### 🎥 Project Video
 
